@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<test>
+  <row>
+    <FirstNumber>0</FirstNumber>
+    <SecondNumber>1</SecondNumber>
+    <Sum>1</Sum>
+  </row>
+  <row>
+    <FirstNumber>1</FirstNumber>
+    <SecondNumber>1</SecondNumber>
+    <Sum>2</Sum>
+  </row>
+  <row>
+    <FirstNumber>2</FirstNumber>
+    <SecondNumber>-3</SecondNumber>
+    <Sum>-1</Sum>
+  </row>
+</test>
